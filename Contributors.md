@@ -7725,3 +7725,4 @@ Pooja Muthalik
 - [guimauve](https://github.com/guimauveb)
 - [Dogukan Sahinturk](https://github.com/dsahinturk)
 - [vinniehat](https://github.com/vinniehat)
+- [Kualdir](https://github.com/Kualdir)
